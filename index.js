@@ -26,6 +26,7 @@ function switchOnCharmFromTip(tip) {
       break
     case tip === 'ungenerous':
       response = 'Thank you.';
+      break
   }
 
   return response
