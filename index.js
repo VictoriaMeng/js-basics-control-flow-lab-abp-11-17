@@ -21,6 +21,6 @@ function switchOnCharmFromTip(tip) {
   let response;
 
   switch (true) {
-    
+    case tip = 'tip'
   }
 }
